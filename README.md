@@ -33,6 +33,18 @@ The application provides an interactive dashboard where users can upload chest X
 5. Support Vector Machine (SVM)
 6. Random Forest
 
+## Trained Model Download Links
+
+Download the large trained models from Google Drive:
+
+- **VGG16 Model:** https://drive.google.com/file/d/1yDJZ_qGSRg8RBYBS0d9BKpPcaUbop7Co/view?usp=drive_link
+- **ResNet50 Model:** https://drive.google.com/file/d/10ye79JnS4ZbAQxcTFKZ95VKAv4NuGf64/view?usp=drive_link
+
+After downloading, place the models in their respective folders:
+
+- VGG16: `vgg16_lightweight_results/best_vgg16.keras`
+- ResNet50: `resnet50_improved_results/best_resnet50_finetuned.keras`
+  
 ## 📊 Model Performance
 
 | Model | Accuracy |
