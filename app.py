@@ -21,8 +21,7 @@ st.set_page_config(
 
 # PROJECT PATHS
 
-BASE_DIR = r"D:\Pneumonia_Detection_Project"
-
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MODEL_PATHS = {
     "CNN": os.path.join(BASE_DIR, "cnn_results", "best_cnn.keras"),
 
