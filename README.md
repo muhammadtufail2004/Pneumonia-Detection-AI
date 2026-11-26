@@ -122,3 +122,16 @@ Machine Learning | Deep Learning | Data Science | Python
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star.
+
+## Dataset
+
+Source: Kaggle - Paul Mooney
+
+Download: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+Classes:
+- NORMAL
+- PNEUMONIA
+
+The dataset is not included in this repository.
+Download it separately from Kaggle.
