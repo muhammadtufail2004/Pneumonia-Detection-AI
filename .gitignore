@@ -1,0 +1,33 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Dataset
+chest_xray/
+dataset/
+datasets/
+
+# Temporary files
+*.log
+*.tmp
+
+# Private configuration
+.streamlit/secrets.toml
+# Old and duplicate models
+old/
+**/final_*.keras
+resnet50_improved_results/best_resnet50_initial.keras
+resnet50_lightweight_results/
+efficientnetb0_lightweight_results/
+old/
+duplicate_backup/
+chest_xray/
+archive.zip
+.venv/
+__pycache__/
